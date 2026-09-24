@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Caddie\'s Day</string>
+    <string name="login_title">Welcome to Caddie\'s Day</string>
+    <string name="golfer_login">Golfer Login</string>
+    <string name="caddie_login">Caddie Login</string>
+    <string name="admin_portal">Admin Portal</string>
+    <string name="public_chart">Public Chart</string>
+    <string name="private_chart">Private Chart</string>
+    <string name="members_directory">Directory</string>
+    <string name="notice_board">Notice Board</string>
+    <string name="complaint_box">Complaint Box</string>
+    <string name="profile">Profile</string>
+</resources>
+

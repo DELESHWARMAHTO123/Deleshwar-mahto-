@@ -1,0 +1,6 @@
+{
+  "name": "Caddie's Day",
+  "description": "Daily golf pairings, public time charts, caddie assignments, private charts, confidential complaints, and community board",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
